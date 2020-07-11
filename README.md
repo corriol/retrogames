@@ -1,3 +1,3 @@
-# Framework MVC 
-Framework MVC desenvolupat amb fins educatius.
-# retrogames
+# Retrogames 
+Una aplicació web basada en el framework MVC desenvolupat amb fins educatius.
+
